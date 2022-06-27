@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tcalculator", "Tcalculator\Tcalculator.csproj", "{679F7D4D-566F-4182-8E6E-F52605D3B18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679F7D4D-566F-4182-8E6E-F52605D3B18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679F7D4D-566F-4182-8E6E-F52605D3B18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679F7D4D-566F-4182-8E6E-F52605D3B18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679F7D4D-566F-4182-8E6E-F52605D3B18D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {662D3BE9-75F9-4028-A5FD-CBC6B3F98735}
+	EndGlobalSection
+EndGlobal
